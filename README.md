@@ -2,11 +2,11 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/CamiloJr/rabbitmq-server-portable?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/CamiloJr/rabbitmq-server-portable?style=flat-square)
+![GitHub](https://img.shields.io/github/license/CamiloJr/rabbitmq-server-portable?style=flat-square)
+![GitHub language](https://img.shields.io/github/languages/count/CamiloJr/rabbitmq-server-portable?style=flat-square)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/CamiloJr/rabbitmq-server-portable?style=flat-square)
 
 
 
@@ -57,5 +57,10 @@ Para usar RabbitMQ Server - Portable, siga estas etapas:
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
+
+## 🧡 Origem
+
+Esse projeto é uma derivação https://github.com/isindicic/RabbitMqPortable, que infelizmente encontra-se estagnado há alguns anos.
+Obrigado ao https://github.com/isindicic!
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
