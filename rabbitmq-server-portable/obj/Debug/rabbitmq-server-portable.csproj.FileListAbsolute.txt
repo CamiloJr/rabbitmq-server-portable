@@ -1,0 +1,14 @@
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\rabbitmq-server-portable\bin\Debug\rabbitmq-server-portable.exe.config
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\rabbitmq-server-portable\bin\Debug\rabbitmq-server-portable.exe
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\rabbitmq-server-portable\bin\Debug\rabbitmq-server-portable.pdb
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\rabbitmq-server-portable\obj\Debug\rabbitmq-server-portable.csproj.AssemblyReference.cache
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\rabbitmq-server-portable\obj\Debug\rabbitmq_server_portable.MainWindow.resources
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\rabbitmq-server-portable\obj\Debug\rabbitmq_server_portable.Properties.Resources.resources
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\rabbitmq-server-portable\obj\Debug\rabbitmq-server-portable.csproj.GenerateResource.cache
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\rabbitmq-server-portable\obj\Debug\rabbitmq-server-portable.csproj.CoreCompileInputs.cache
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\rabbitmq-server-portable\obj\Debug\rabbitmq-server-portable.exe
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\rabbitmq-server-portable\obj\Debug\rabbitmq-server-portable.pdb
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\build\rabbitmq-server-portable.exe.config
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\build\rabbitmq-server-portable.exe
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\build\rabbitmq-server-portable.pdb
+D:\Users\Camilo\GitHubD\rabbitmq-server-portable\rabbitmq-server-portable\obj\Debug\rabbitmq_server_portable.About.resources
